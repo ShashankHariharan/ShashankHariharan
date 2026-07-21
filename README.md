@@ -193,9 +193,9 @@ print(me.motto())
 | 🟠 | Virtual Internship Program | ServiceNow | 2026 |
 | 🟣 | Graph Theory Programming Camp | AlgoUniversity | 2026 |
 | ☁️ | AWS Certification | Intellipaat | 2025 |
-| ☕ | Programming in Java | Vityarthi (VIT Bhopal) | 2025 |
-| 🐍 | Python Essentials | Vityarthi (VIT Bhopal) | 2024 |
-| 🧠 | Fundamentals of AI and Machine Learning | Vityarthi (VIT Bhopal) | 2023 |
+| ☕ | Programming in Java | Vityarthi | 2025 |
+| 🐍 | Python Essentials | Vityarthi | 2024 |
+| 🧠 | Fundamentals of AI and Machine Learning | Vityarthi | 2023 |
 
 </div>
 
@@ -209,7 +209,7 @@ print(me.motto())
 
 | Degree | Institution | Duration |
 |---|---|---|
-| B.Tech, Computer Science Engineering | VIT Bhopal University | 2023 – Present |
+| B.Tech, Computer Science Engineering | VIT University | 2023 – Present |
 | Higher Secondary (CBSE) | GRT Mahalakshmi Vidyalaya, Chennai | 2021 – 2023 |
 | Secondary (CBSE) | Chettinad Vidyashram, Chennai | 2008 – 2020 |
 
