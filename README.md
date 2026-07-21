@@ -126,30 +126,31 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>Freelance Developer — Remote</b></summary>
+<summary><b>Jr Software Engineer Intern — Cedilla Interactive</b></summary>
 <br>
 
-> `Discord.js` `Node.js` `API Integration` `Automation`
+> `Web Development` `Backend Development` `Technical SEO` `Performance Optimization`
 
-- Designed and developed custom Discord bots using Discord.js and Node.js for online communities.
-- Automated moderation, ticketing, verification, and server management workflows.
-- Integrated third-party APIs to improve community engagement and functionality.
-- Built scalable command architectures for maintainable bot development.
+- Contributed to website development projects by implementing responsive and user-friendly web interfaces.
+- Assisted in backend development and feature implementation for client applications.
+- Applied Technical SEO practices to improve website visibility and search engine performance.
+- Optimized website performance through code improvements, page speed enhancements, and technical best practices.
+- Collaborated with developers and mentors while following professional software development workflows.
 
 </details>
 
 <details>
-<summary><b>Management Trainee Intern — NxtJob | Remote (2 Months)</b></summary>
+<summary><b>Management Trainee Intern — NxtJob | Remote</b></summary>
 <br>
 
-> `Operations` `Cross-functional Collaboration` `Reporting`
+> `AI Platform` `Operations` `Technical Support` `Cross-functional Collaboration`
 
-- Collaborated with cross-functional teams to support daily operational activities.
-- Assisted in workflow optimization and reporting processes.
-- Gained exposure to project coordination and business operations.
+- Supported users through NxtJob's AI-powered platform by resolving technical and operational issues.
+- Worked with cross-functional teams to improve workflows and enhance platform usability.
+- Assisted in maintaining and improving existing projects through testing, documentation, and issue resolution.
+- Contributed to operational reporting and continuous product improvement initiatives.
 
 </details>
-
 ---
 
 ## 🚀 Featured Projects
@@ -168,23 +169,13 @@ print(me.motto())
 ## 🚀 Current Focus
 
 ```text
-🔹 Building AI-powered applications
-🔹 Strengthening Data Structures & Algorithms
-🔹 Learning Java Backend Development
-🔹 Exploring AWS Cloud fundamentals
+🔹 Building CareerPilot – AI-powered Career Guidance Platform
+🔹 Solving LeetCode Daily & Strengthening DSA
+🔹 Mastering Java Backend Development
+🔹 Revising Core CS Subjects (DBMS, Operating Systems & OOP)
 ```
 
 ---
-
-## 🌱 Open Source
-
-```text
-Interested in contributing to open-source projects related to:
-• Artificial Intelligence
-• Backend Development
-• Developer Tools
-• Automation
-```
 
 ---
 
@@ -192,15 +183,21 @@ Interested in contributing to open-source projects related to:
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 🟢 | Google IT Support Professional Certificate | Issued by Google — Feb 2026 |
-| 🔵 | Agile Project Management | HP LIFE — Feb 2026 |
-| 🟣 | Graphs Programming Camp | Algo University — Mar 2026 |
-| 🟠 | AWS Certification Course | Intellipaat — Sep 2025 |
-| 🔴 | Programming in Java | Vityarthi, VIT Bhopal — Sep 2025 |
-| 🟡 | Fundamentals of AI and ML | Vityarthi, VIT Bhopal — Dec 2023 |
-| 🟢 | Python Essentials | Vityarthi, VIT Bhopal — Sep 2024 |
+| 🎖️ | Certification | Issued By | Year |
+|---|---|---|---|
+| 💼 | Introduction to Software Engineering Job Simulation | Commonwealth Bank | 2026 |
+| 🤖 | Google AI Essentials | Google | 2026 |
+| 🥇 | Google IT Support Professional Certificate | Google | 2026 |
+| ☁️ | Introduction to Large Language Models | Google Cloud Skills Boost | 2026 |
+| 🔵 | Agile Project Management | HP LIFE | 2026 |
+| 🟠 | Virtual Internship Program | ServiceNow | 2026 |
+| 🟣 | Graph Theory Programming Camp | AlgoUniversity | 2026 |
+| ☁️ | AWS Certification | Intellipaat | 2025 |
+| ☕ | Programming in Java | Vityarthi (VIT Bhopal) | 2025 |
+| 🐍 | Python Essentials | Vityarthi (VIT Bhopal) | 2024 |
+| 🧠 | Fundamentals of AI and Machine Learning | Vityarthi (VIT Bhopal) | 2023 |
+
+</div>
 
 </div>
 
@@ -210,11 +207,11 @@ Interested in contributing to open-source projects related to:
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech, Computer Science Engineering | VIT Bhopal University | Ongoing | — |
-| Higher Secondary | GRT Mahalakshmi Vidyalaya, Chennai | 2021 – 2023 | — |
-| Class X (CBSE) | Chettinad Vidyashram, Chennai | 2008 – 2020 | — |
+| Degree | Institution | Duration |
+|---|---|---|
+| B.Tech, Computer Science Engineering | VIT Bhopal University | 2023 – Present |
+| Higher Secondary (CBSE) | GRT Mahalakshmi Vidyalaya, Chennai | 2021 – 2023 |
+| Secondary (CBSE) | Chettinad Vidyashram, Chennai | 2008 – 2020 |
 
 </div>
 
@@ -223,10 +220,11 @@ Interested in contributing to open-source projects related to:
 ```text
 ✔ Data Structures & Algorithms
 ✔ Java Backend Development
-✔ Database Design
+✔ Database Design & SQL
 ✔ Operating Systems
-✔ AWS Cloud
+✔ AWS Cloud Fundamentals
 ✔ AI Application Development
+✔ System Design Fundamentals
 ```
 
 ---
