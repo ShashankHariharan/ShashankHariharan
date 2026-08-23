@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Hariharan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%7C%20AI%20Applications%20%7C%20Web%20Development&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/ShashankHariharan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+VIT+Bhopal;Backend+%26+AI+Application+Developer;Python+%7C+JavaScript+%7C+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+VIT+University;Backend+%26+AI+Application+Developer;Python+%7C+JavaScript+%7C+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +17,7 @@ class Shashank:
     def __init__(self):
         self.name = "Shashank Hariharan"
         self.location = "Chennai, India"
-        self.degree = "B.Tech, Computer Science Engineering (VIT Bhopal)"
+        self.degree = "B.Tech, Computer Science Engineering (VIT University)"
         self.stack = {
             "languages": ["Python", "JavaScript", "SQL", "HTML/CSS", "Java (Basics)"],
             "frameworks": ["Streamlit", "Pandas", "Matplotlib", "Discord.js", "Node.js"],
@@ -142,9 +142,9 @@ print(me.motto())
 | 📋 | Agile Project Management | HP LIFE (Feb 2026) |
 | 🌐 | Graph Theory Programming Camp | AlgoUniversity (Mar 2026) |
 | ☁️ | AWS Certification Course | Intellipaat (Sep 2025) |
-| ☕ | Programming in Java | Vityarthi, VIT Bhopal (Sep 2025) |
-| 🐍 | Python Essentials | Vityarthi, VIT Bhopal (Sep 2024) |
-| 🤖 | Fundamentals of AI and Machine Learning | Vityarthi, VIT Bhopal (Dec 2023) |
+| ☕ | Programming in Java | Vityarthi, VIT (Sep 2025) |
+| 🐍 | Python Essentials | Vityarthi, VIT (Sep 2024) |
+| 🤖 | Fundamentals of AI and Machine Learning | Vityarthi, VIT University (Dec 2023) |
 
 </div>
 
@@ -156,7 +156,7 @@ print(me.motto())
 
 | Degree | Institution | Year | 
 |---|---|---|
-| B.Tech, Computer Science Engineering | VIT Bhopal University | Final Year |
+| B.Tech, Computer Science Engineering | VIT University | Final Year |
 | Higher Secondary | GRT Mahalakshmi Vidyalaya, Chennai | 2021 – 2023 |
 | Class X (CBSE) | Chettinad Vidyashram, Chennai | 2018 – 2020 |
 
