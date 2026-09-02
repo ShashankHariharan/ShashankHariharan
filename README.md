@@ -70,15 +70,6 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/ShashankHariharan">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShashankHariharan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/ShashankHariharan">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShashankHariharan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=ShashankHariharan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="48%"/>
 
 <br/>
@@ -92,10 +83,6 @@ print(me.motto())
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashankHariharan/ShashankHariharan/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ShashankHariharan/ShashankHariharan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=ShashankHariharan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
 
 </div>
 
