@@ -106,7 +106,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShashankHariharan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=ShashankHariharan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&timezone=Asia/Kolkata" width="48%"/>
 
 <br/>
 
