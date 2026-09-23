@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Hariharan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%7C%20AI%20Applications%20%7C%20Web%20Development&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Hariharan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20%7C%20AI%20Applications%20%7C%20Software%20Development&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/ShashankHariharan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+VIT+University;Backend+%26+AI+Application+Developer;Python+%7C+JavaScript+%7C+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+VIT+University;Java+Backend+%26+Software+Engineer;Java+%7C+Spring+Boot+%7C+SQL+%7C+Python;Building+Practical+AI-Powered+Applications" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,23 +14,43 @@
 
 ```python
 class Shashank:
+
     def __init__(self):
+
         self.name = "Shashank Hariharan"
+
         self.location = "Chennai, India"
+
         self.degree = "B.Tech, Computer Science Engineering (VIT University)"
+
+        self.focus = "Backend Software Engineering"
+
         self.stack = {
-            "languages": ["Python", "JavaScript", "SQL", "HTML/CSS", "Java (Basics)"],
-            "frameworks": ["Streamlit", "Pandas", "Matplotlib", "Discord.js", "Node.js"],
-            "tools": ["PyWebView", "PyInstaller", "GitHub"]
+            "languages": ["Java", "Python", "JavaScript", "SQL"],
+            "backend": ["Spring Boot", "Spring Security", "REST APIs", "Node.js", "JWT"],
+            "databases": ["MySQL", "SQLite"],
+            "core": ["Data Structures & Algorithms", "OOP", "DBMS"],
+            "ai": ["Machine Learning", "Generative AI", "LLMs", "RAG", "LangChain"],
+            "tools": ["Git", "GitHub", "IntelliJ IDEA", "Maven"]
         }
-        self.currently_learning = ["AWS", "Agentic AI", "Graph Theory & DSA"]
-        self.fun_fact = "I've packaged a full ML-powered desktop app with nothing but Python and PyInstaller."
+
+        self.currently_building = "CareerPilot"
+
+        self.interests = [
+            "Backend Engineering",
+            "AI-Powered Applications",
+            "Problem Solving"
+        ]
+
+        self.fun_fact = "I enjoy turning ideas into working software."
 
     def motto(self):
-        return "Build reliable, user-focused software — one commit at a time."
+
+        return "Build. Learn. Improve. Repeat."
 
 
 me = Shashank()
+
 print(me.motto())
 ```
 
@@ -38,33 +58,51 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**Languages**
+## 🛠️ Tech Stack
+
+### **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frameworks & Libraries**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+### **Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D7?style=flat-square&logo=servicenow&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-**Databases**
+### **AI / ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+
+### **Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools**
+### **Tools**
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-000000?style=flat-square&logo=python&logoColor=white)
-![Google Ads Manager](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
-![Meta Ads Manager](https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 <br/>
 
@@ -96,23 +134,22 @@ print(me.motto())
 
 > `Web Development` `Backend Development` `Technical SEO` `Performance Optimization`
 
-- Assisted in website and backend development by contributing to feature implementation, debugging, and application maintenance
-- Worked on Technical SEO initiatives including on-page optimization, metadata improvements, and structured content implementation
-- Optimized website performance by improving page speed and technical configurations, enhancing overall user experience
-- Collaborated with the development team to support ongoing client projects while following professional development practices
+- Contributed to website and backend development through feature implementation, debugging, testing, and application maintenance
+- Worked on technical SEO, metadata, structured content, website performance, and technical optimization for client projects
+- Investigated application issues and collaborated with the development team to improve functionality, reliability, and user experience
+- Supported client projects throughout development and maintenance while following professional software development practices
 
 </details>
 
 <details>
-<summary><b>Management Trainee Intern @ NxtJob</b> — Remote — Feb 2026 – Apr 2026</summary>
+<summary><b>Management Trainee Intern @ NxtJob</b> — Remote — Aug 2025 – Oct 2025</summary>
 <br/>
 
-> `AI-Powered Support` `Cross-Functional Collaboration` `Workflow Management`
+> `Project Support` `Operational Support` `Cross-Functional Collaboration`
 
-- Provided operational and technical support by assisting users through the company's AI-powered support agent
-- Worked closely with cross-functional teams to resolve user issues and improve customer support workflows
-- Contributed to the maintenance and enhancement of existing company projects by supporting feature updates
-- Gained hands-on exposure to AI-driven customer support systems and day-to-day business operations
+- Contributed to assigned projects and operational tasks while supporting day-to-day business activities
+- Assisted with project maintenance and task execution while collaborating with the team on assigned requirements
+- Supported ongoing project activities and gained exposure to technical and operational workflows
 
 </details>
 
@@ -124,8 +161,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[AquaOS – Water Quality Monitoring Platform](https://github.com/ShashankHariharan)** | Python, PyWebView, PyInstaller | Hybrid ML + AI-reasoning system for water safety evaluation; real-time analysis, scenario simulation, structured reporting; packaged as standalone desktop software |
-| **[Discord AI Chatbot with Search Integration](https://github.com/ShashankHariharan)** | JavaScript, Node.js, Discord.js | AI-powered conversational bot with external search API integration; modular command handling architecture built for scalability |
+| **CareerPilot – AI-Powered Job Application Platform** | Java, Spring Boot, Spring Security, JWT, MySQL, JPA/Hibernate | Backend platform for resume management and career workflows; implemented authentication, JWT authorization, resume upload, and user-specific resume retrieval |
+| **AquaOS – Water Quality Monitoring Platform** | Python, PyWebView, PyInstaller | ML + AI-driven water safety evaluation platform with real-time analysis, scenario simulation, historical tracking, and structured reporting |
+| **Discord AI Chatbot with Search Integration** | JavaScript, Node.js, Discord.js | AI-powered conversational chatbot with external search API integration and modular command handling |
 
 </div>
 
@@ -135,17 +173,14 @@ print(me.motto())
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
+| 🎖️ | Certification | Details |
 |---|---|---|
+| 🤖 | IBM AI Engineering | IBM Skills Network / Coursera — Machine Learning, Deep Learning, LLMs, Generative AI, RAG & LangChain (Jul 2026) |
+| 🧠 | Google AI Essentials | Google / Coursera — AI fundamentals, prompting and responsible AI (Jul 2026) |
+| ⚙️ | Virtual Internship Program | ServiceNow University & SmartBridge — ServiceNow Administration, Agentic AI, Flows, ATF & Reports (May 2026) |
 | 📊 | Marketing Analytics | NPTEL — **Elite** certification (Apr 2026) |
-| ⚙️ | Virtual Internship Program | ServiceNow Administration, Agentic AI, Flows, ATF, Reports — ServiceNow University & SmartBridge (May 2026) |
-| 💻 | Google IT Support Professional Certificate | Google (Feb 2026) |
-| 📋 | Agile Project Management | HP LIFE (Feb 2026) |
-| 🌐 | Graph Theory Programming Camp | AlgoUniversity (Mar 2026) |
-| ☁️ | AWS Certification Course | Intellipaat (Sep 2025) |
+| 🧮 | Graph Theory Programming Camp | AlgoUniversity (Mar 2026) |
 | ☕ | Programming in Java | Vityarthi, VIT (Sep 2025) |
-| 🐍 | Python Essentials | Vityarthi, VIT (Sep 2024) |
-| 🤖 | Fundamentals of AI and Machine Learning | Vityarthi, VIT University (Dec 2023) |
 
 </div>
 
@@ -155,23 +190,25 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | 
+| Degree | Institution | Year |
 |---|---|---|
-| B.Tech, Computer Science Engineering | VIT University | Final Year |
-| Higher Secondary | GRT Mahalakshmi Vidyalaya, Chennai | 2021 – 2023 |
-| Class X (CBSE) | Chettinad Vidyashram, Chennai | 2018 – 2020 |
+| B.Tech, Computer Science Engineering | VIT University | 2023 – 2027 |
 
 </div>
 
 <br/>
 
-## 🌱 Currently Learning
+```markdown
+## 🌱 Currently Building & Learning
 
 ```text
-☁️  Cloud & DevOps   → AWS, ServiceNow Administration
-🤖  AI Systems       → Agentic AI, Flows, AI-driven applications
-🧮  DSA              → Graph Theory, Competitive Programming
-```
+🚀  Backend Engineering  → Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate
+
+🤖  AI Applications      → Generative AI, LLMs, RAG, AI-powered software
+
+🧮  Problem Solving      → Data Structures & Algorithms, Graph Theory, Competitive Programming
+
+🚀  CareerPilot          → Building an AI-powered job application platform
 
 <br/>
 
