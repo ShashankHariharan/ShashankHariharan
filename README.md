@@ -210,9 +210,9 @@ print(me.motto())
 
 🚀  CareerPilot          → Building an AI-powered job application platform
 
-<br/>
+```text
 
-<div align="center">
+<br/> <div align="center">
 
 📫 **Reach me at:** [shashumj05@gmail.com](mailto:shashumj05@gmail.com) · [LinkedIn](https://linkedin.com/in/shashank-hariharan-206719340) · [GitHub](https://github.com/ShashankHariharan)
 
