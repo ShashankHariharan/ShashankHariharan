@@ -198,7 +198,6 @@ print(me.motto())
 
 <br/>
 
-```markdown
 ## 🌱 Currently Building & Learning
 
 ```text
@@ -209,8 +208,7 @@ print(me.motto())
 🧮  Problem Solving      → Data Structures & Algorithms, Graph Theory, Competitive Programming
 
 🚀  CareerPilot          → Building an AI-powered job application platform
-
-```text
+```
 
 <br/> <div align="center">
 
